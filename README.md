@@ -1,6 +1,6 @@
 ### Oi, eu sou Karen Lemos :)
 
-- 👩🏼‍💻 Professora de programação
+- 👩🏼‍💻 Programming Teacher 
 - 🎈 Estudando Nodejs
 
 <div style="display: inline_block"><br>
